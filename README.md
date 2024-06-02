@@ -1,8 +1,8 @@
-#Music Book App
+#Song Sphere Music App
 
 # Overview
 
-Music Book App is a ReactJS application designed to provide users with an immersive music listening experience. This app allows users to play, pause, skip forward or backward, and perform other actions while listening to music sourced from platforms like Chillhop Music. It aims to offer a seamless and enjoyable way to discover and enjoy music.
+Song Sphere Music App is a ReactJS application designed to provide users with an immersive music listening experience. This app allows users to play, pause, skip forward or backward, and perform other actions while listening to music sourced from platforms like Chillhop Music. It aims to offer a seamless and enjoyable way to discover and enjoy music.
 
 # Features
 
@@ -26,11 +26,11 @@ To run the Music Book App locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/music-book-app.git
+    git clone https://github.com/your-username/song-sphere-music-app.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd music-book-app
+    cd SongSpere
     ```
 3. Install dependencies:
     ```bash
