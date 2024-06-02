@@ -26,7 +26,7 @@ To run the Music Book App locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/song-sphere-music-app.git
+https://github.com/HaroonHane/SongSphereApp/tree/main/SongSphere
     ```
 2. Navigate to the project directory:
     ```bash
